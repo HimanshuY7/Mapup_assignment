@@ -1,0 +1,59 @@
+.Dash-body{
+    width: 100%;
+    height: 100%;
+    padding: 0.5rem;
+}
+
+.Graph-parent{
+    width: 100%;
+    height: 33%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    position: relative;
+    background-color: white;
+}
+
+/*Brand-details*/
+
+.table-head{
+    padding: 0.5rem 1rem;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.table-row{
+    text-align: center;
+}
+
+.table-data{
+    padding: 0.5rem 1rem;
+    font-size: 14px; 
+}
+
+/*Piechart*/
+
+.pie-parent{
+    border: 1px solid rgb(232, 223, 223);
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+.pie-heading{
+    font-size: 16px;
+    padding: 0 0.5rem; 
+}
+
+/*data table*/
+.Table-Parent{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0.5rem;
+}
+
+.Data-table{
+    width: 95%;
+}

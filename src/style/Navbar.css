@@ -1,0 +1,14 @@
+.Parent-nav{
+    width: 102%;
+    padding: 0.5rem 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: 1px solid #247cb3;
+    background-color: white;
+}
+
+.logo{
+    width: 4rem;
+    padding: 0 1rem;
+}
